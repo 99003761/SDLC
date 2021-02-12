@@ -1,9 +1,13 @@
 **Any_To_Any**
 
 #include <stdlib.h>
+
 #include <stdio.h>
+
 #include <string.h>
+
 #include <math.h>
+
 
 int toAnyBase(int n, int toBase); // from base 10 (2nd)
 int toBaseTen(char array[256], int fromBase); // from any base (1st)
