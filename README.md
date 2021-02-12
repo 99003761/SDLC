@@ -1,5 +1,5 @@
 # SDLC
-adding some points
+
 **decimal To Any**
 
 #include<stdio.h> // include stdio.h library
