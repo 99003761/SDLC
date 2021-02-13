@@ -1,6 +1,6 @@
 #   **Convert Celsius to Fahrenheit** 
 
-
+{
 
 #include<stdio.h>
 
@@ -24,7 +24,7 @@ void main()
 
 
 
-
+}
 
 
 
