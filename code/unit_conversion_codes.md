@@ -31,9 +31,7 @@ void main()
 
 
 
-/* Convert Farenheit to Celcius */
-
-
+# ** Convert Farenheit to Celcius 
 
 
 
@@ -64,7 +62,7 @@ void main()
 
 
 
-/*Convert Meter to Feet*/
+# **Convert Meter to Feet**
 
 
 
@@ -183,9 +181,9 @@ void main()
 
 
 
-/*C Program to convert AC to DC and vice versa*/
+# C Program to convert AC to DC and vice versa*/
 
-# include <stdio.h>
+#include <stdio.h>
 
  int main()
 
