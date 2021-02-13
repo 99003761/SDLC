@@ -1,6 +1,6 @@
 #   **Convert Celsius to Fahrenheit** 
 
-{
+
 
 #include<stdio.h>
 
@@ -21,17 +21,7 @@ void main()
 }
 
 
-
-
-
-}
-
-
-
-
-
-
-# ** Convert Farenheit to Celcius 
+# **Convert Farenheit to Celcius** 
 
 
 
@@ -54,10 +44,6 @@ void main()
 
 
 }
-
-
-
-
 
 
 
@@ -97,11 +83,7 @@ void main()
 
 
 
-/* Convert Feet to Meter */
-
-
-
-
+# **Convert Feet to Meter**
 
 #include<stdio.h>
 
@@ -121,20 +103,7 @@ void main()
 
 }
 
-
-
-
-
-
-
-
-
-
-/*Convert Km to M/cm/mm*/
-
-
-
-
+# **Convert Km to M/cm/mm**
 
 #include<stdio.h>
 
