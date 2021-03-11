@@ -7,7 +7,7 @@ BUILD = build
 # All source code files
 SRC = src/conversion.c\
 test/test_calculator_operations.c\
-unity/unity.c
+#unity/unity.c
  
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
  
