@@ -11,6 +11,12 @@ void test_add_testcase2(void);
 void test_subtract(void);
 void test_multiply(void);
 void test_divide(void);
+void test_temp_C_F(void);
+void test_temp_F_C(void);
+void test_Len_M_F(void);
+void test_Len_F_M (void);
+void test_current_DC_AC(void);
+void test_current_AC_DC(void);
 
 /* Required by the unity test framework */
 void setUp(){}
@@ -31,6 +37,11 @@ int main()
   RUN_TEST(test_divide);
   ////////99003761/////
   RUN_TEST(test_temp_C_F);
+  RUN_TEST(test_temp_F_C);
+  RUN_TEST(test_Len_M_F);
+  RUN_TEST(test_Len_F_M);
+  RUN_TEST(test_current_DC_AC);
+  RUN_TEST(test_current_AC_DC);
 
 
   ////////END of 99003761///////
