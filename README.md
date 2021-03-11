@@ -79,3 +79,5 @@ void convert_to_x_base(int num, int base)
     }
 
 }
+
+[![Contribution Check - Git Inspector](https://github.com/99003761/SDLC/actions/workflows/git.yml/badge.svg)](https://github.com/99003761/SDLC/actions/workflows/git.yml)
