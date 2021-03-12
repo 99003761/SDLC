@@ -33,7 +33,7 @@ $(PROJECT_NAME):all
 .PHONY: run clean test doc all
  
 all: $(SRC) $(BUILD)
-	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT).out -lm
+	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT).out 
 	
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
@@ -45,7 +45,7 @@ run:$(PROJECT_NAME)
  
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(SRC) $(INC) -o $(TEST_OUTPUT).out -lm
+	gcc $(SRC) $(INC) -o $(TEST_OUTPUT).out 
 	./$(TEST_OUTPUT)
  
 # Remove all the built files, invoke by `make clean`
