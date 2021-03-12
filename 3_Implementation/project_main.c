@@ -7,7 +7,12 @@ unsigned int calculator_operation = 0;
 
 int main(int argc, char *argv[])
 {
-    
+float temp_C_F(float c);
+float temp_F_C(float f);
+float Len_M_F(float m);
+float Len_F_M(float f);
+float current_DC_AC(float dc);
+float current_AC_DC(float ac);
     
     
    // printf("\n****Calculator****\n");
