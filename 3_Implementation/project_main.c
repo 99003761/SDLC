@@ -7,13 +7,16 @@ unsigned int calculator_operation = 0;
 
 int main(int argc, char *argv[])
 {
-    printf("\n****Calculator****\n");
-    while(1)
-    {
-        calculator_menu();
-    }
+    
+    
+    
+   // printf("\n****Calculator****\n");
+  //  while(1)
+  //  {
+  //      calculator_menu();
+  //  }
 }
-
+/*
 void calculator_menu(void)
 {
     printf("\nAvailable Operations\n");
@@ -39,4 +42,4 @@ void calculator_menu(void)
         
     }
 }
-
+*/
